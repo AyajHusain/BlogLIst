@@ -1,0 +1,10 @@
+post http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title":"T Blog",
+    "author":"Arsh",
+    "url":"adaasas",
+    "user":"65df069aab70f0c13c42fc5e",
+    "likes":87
+}
